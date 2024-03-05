@@ -1,0 +1,15 @@
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\bin\Debug\net8.0\Infrastracture.deps.json
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\bin\Debug\net8.0\Infrastracture.dll
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\bin\Debug\net8.0\Infrastracture.pdb
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\bin\Debug\net8.0\Domain.dll
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\bin\Debug\net8.0\Domain.pdb
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.csproj.AssemblyReference.cache
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.AssemblyInfoInputs.cache
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.AssemblyInfo.cs
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.csproj.CopyComplete
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.dll
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\refint\Infrastracture.dll
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\Infrastracture.pdb
+C:\Users\2023\Desktop\.Net\week2\day1\home\Infrastracture\obj\Debug\net8.0\ref\Infrastracture.dll
